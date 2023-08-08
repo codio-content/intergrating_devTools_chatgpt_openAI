@@ -1,0 +1,62 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-865709910",
+	"source": {
+		"name": "integrating the ChatGPT API",
+		"showName": false,
+		"instructions": "Which of the following is **NOT** a potential benefit of integrating the ChatGPT API with your development tools?",
+		"multipleResponse": true,
+		"isRandomized": true,
+		"answers": [
+			{
+				"_id": "35e5c93e-944f-eee1-4253-316afe441500",
+				"correct": false,
+				"answer": "Accessing AI-powered assistance directly within your preferred environment"
+			},
+			{
+				"_id": "588ae824-2f2c-45cd-3cdc-c0638bdd4169",
+				"correct": false,
+				"answer": "Accelerating problem-solving and brainstorming sessions."
+			},
+			{
+				"_id": "a0657e7b-14a0-a6ac-0c26-7e55ce9aafae",
+				"correct": true,
+				"answer": "Increasing the difficulty of communication within development teams."
+			},
+			{
+				"_id": "31752d03-b838-e01d-3373-ae8b8da27e5d",
+				"correct": false,
+				"answer": "Automating code reviews and generating test cases."
+			}
+		],
+		"guidance": "The passage specifically mentions that integrating the ChatGPT API can \"facilitate communication and collaboration within development teams,\" not increase its difficulty.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"temp.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "temp.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

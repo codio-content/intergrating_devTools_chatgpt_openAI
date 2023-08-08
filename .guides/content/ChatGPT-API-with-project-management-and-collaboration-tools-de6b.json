@@ -1,0 +1,25 @@
+{
+	"id": "de6b1760-9222-38ff-d265-10129e4e988c",
+	"title": "ChatGPT API with project management and collaboration tools",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "my_project/chatgpt_integration.py",
+			"action": "open"
+		},
+		{
+			"path": "#terminal: ",
+			"action": "open"
+		}
+	],
+	"layout": "",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

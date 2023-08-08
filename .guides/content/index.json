@@ -1,0 +1,22 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Learning-Objectives-f0a9",
+		"Integrating-ChatGPT-API--ae99",
+		"Integrating-ChatGPT-API-with-Code-Editors-and-IDEs-e77c",
+		"ChatGPT-API-with-project-management-and-collaboration-tools-de6b",
+		"Coding-Exercise-5b0f"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": true,
+	"theme": "light",
+	"title": "Introduction to GPT-3",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

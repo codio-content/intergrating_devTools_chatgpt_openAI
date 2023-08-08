@@ -1,0 +1,61 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2102238211",
+	"source": {
+		"name": "token_limit",
+		"showName": true,
+		"instructions": "Every GPT response will include a finish_reason. Which of the following reason could be a generated if its due to reaching token limit ",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "93e351a9-d361-60da-18f4-3f6fd6e537d7",
+				"correct": false,
+				"answer": "`stop`"
+			},
+			{
+				"_id": "a64bb190-586b-292c-8dfc-6d5afe85333d",
+				"correct": true,
+				"answer": "`length`"
+			},
+			{
+				"_id": "b78ac7c3-56cf-e976-de5d-6fb07d93485a",
+				"correct": false,
+				"answer": "`content_filter`"
+			},
+			{
+				"_id": "a67e7242-137b-8a17-d058-3be9848b3b7e",
+				"correct": false,
+				"answer": "`null`"
+			}
+		],
+		"guidance": "`length`: Incomplete model output due to max_tokens parameter or token limit",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 2,
+		"showExpectedAnswer": false,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"temp.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "temp.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

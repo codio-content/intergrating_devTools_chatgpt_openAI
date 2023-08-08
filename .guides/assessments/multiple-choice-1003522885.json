@@ -1,0 +1,52 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1003522885",
+	"source": {
+		"name": "local repository",
+		"showName": false,
+		"instructions": "In the integration process, the OpenAI API key is stored in a Python file in the local repository.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "4fb3cc7e-c6dd-b7aa-5b30-687d643bd00b",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "667aadea-05e7-bfac-c6ce-2086ffc0e42f",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "The OpenAI API key is not stored in the local Python file. Instead, it's fetched from the environment variables which are set in the GitHub repository secrets.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"my_project/chatgpt_integration.py"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "my_project/chatgpt_integration.py"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

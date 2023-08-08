@@ -1,0 +1,156 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://flagoptic-origamijapan:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook GPTtest.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 0df03f30-831c-4226-9072-dff99603f996
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:7650723e007f47d68eb6b7408320909a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:88e022aa412040a18ab1e47a550bc99d
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:c2455087ec8c438babcc881f4d29f5ed
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:309b215e9ed741e086a91e5675ee15ab
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:0e02167cc4c74317b0e576024ccc4489
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:7f1d17b3410c4a41b06fef8340729f9c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:78588e7353ad485883917ce1953230f3
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:3eb3417e3ce243ed9808504196be2a9c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0df03f30-831c-4226-9072-dff99603f996) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Starting buffering for 0df03f30-831c-4226-9072-dff99603f996:a24aa6f85d4a4bf19be035d5429a696f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 0df03f30-831c-4226-9072-dff99603f996
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://flagoptic-origamijapan:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /api/kernels/0df03f30-831c-4226-9072-dff99603f996/channels?session_id=a24aa6f85d4a4bf19be035d5429a696f (192.168.10.226): Kernel does not exist: 0df03f30-831c-4226-9072-dff99603f996
+[NotebookApp | WARNING] 404 GET /api/kernels/0df03f30-831c-4226-9072-dff99603f996/channels?session_id=a24aa6f85d4a4bf19be035d5429a696f (192.168.10.226) 66.85ms referer=None
+[NotebookApp | WARNING] Replacing stale connection: 0df03f30-831c-4226-9072-dff99603f996:a24aa6f85d4a4bf19be035d5429a696f
+[NotebookApp | WARNING] Replacing stale connection: 0df03f30-831c-4226-9072-dff99603f996:a24aa6f85d4a4bf19be035d5429a696f
+[NotebookApp | WARNING] Replacing stale connection: 0df03f30-831c-4226-9072-dff99603f996:a24aa6f85d4a4bf19be035d5429a696f
+[NotebookApp | INFO] Kernel started: 2aa541ec-0455-48b1-83b7-b9f20323ae60
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 2aa541ec-0455-48b1-83b7-b9f20323ae60) to 5.3 (client).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2aa541ec-0455-48b1-83b7-b9f20323ae60
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://flagoptic-origamijapan:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 007ddcaf-f42c-4e1b-821c-b27bcdd2ade3
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 007ddcaf-f42c-4e1b-821c-b27bcdd2ade3) to 5.3 (client).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 007ddcaf-f42c-4e1b-821c-b27bcdd2ade3
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://flagoptic-origamijapan:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook GPTtest.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8f66b3db-7d18-4445-ac2a-28ebc0800190
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8f66b3db-7d18-4445-ac2a-28ebc0800190) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Starting buffering for 8f66b3db-7d18-4445-ac2a-28ebc0800190:44018e66dcf74902854c3e6f747bce38
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8f66b3db-7d18-4445-ac2a-28ebc0800190) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Starting buffering for 8f66b3db-7d18-4445-ac2a-28ebc0800190:ba9ea0bc501545718da0828de9a149d4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8f66b3db-7d18-4445-ac2a-28ebc0800190) to 5.3 (client).
+[NotebookApp | INFO] Discarding 46 buffered messages for 8f66b3db-7d18-4445-ac2a-28ebc0800190:ba9ea0bc501545718da0828de9a149d4
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Starting buffering for 8f66b3db-7d18-4445-ac2a-28ebc0800190:5d1ee64bdb364d2f9794b971f3961d04
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8f66b3db-7d18-4445-ac2a-28ebc0800190) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Starting buffering for 8f66b3db-7d18-4445-ac2a-28ebc0800190:6a7b80a3df2047fbaf9ddcccea32e0e7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8f66b3db-7d18-4445-ac2a-28ebc0800190) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 8f66b3db-7d18-4445-ac2a-28ebc0800190:6a7b80a3df2047fbaf9ddcccea32e0e7
+[NotebookApp | INFO] Saving file at /GPTtest.ipynb
+[NotebookApp | INFO] Starting buffering for 8f66b3db-7d18-4445-ac2a-28ebc0800190:6a7b80a3df2047fbaf9ddcccea32e0e7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8f66b3db-7d18-4445-ac2a-28ebc0800190) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 8f66b3db-7d18-4445-ac2a-28ebc0800190:bc135ce16685415d8096437c66dc38d5
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 8f66b3db-7d18-4445-ac2a-28ebc0800190
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://flagoptic-origamijapan:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook GPTtest.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9e6a6477-3d5d-46ff-bac8-2b892cb3debb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 9e6a6477-3d5d-46ff-bac8-2b892cb3debb) to 5.3 (client).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9e6a6477-3d5d-46ff-bac8-2b892cb3debb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://flagoptic-origamijapan:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook GPTtest.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b5e9031c-80a9-47b7-9d22-0ea5dd164c8a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b5e9031c-80a9-47b7-9d22-0ea5dd164c8a) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for b5e9031c-80a9-47b7-9d22-0ea5dd164c8a:fc8e414a58ef48df8bd2e4e76fd1c9ff
+[NotebookApp | WARNING] Notebook GPTtest.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b5e9031c-80a9-47b7-9d22-0ea5dd164c8a) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for b5e9031c-80a9-47b7-9d22-0ea5dd164c8a:4652c5303a534721824f5e5cbab80c1a
+[NotebookApp | WARNING] Notebook GPTtest.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b5e9031c-80a9-47b7-9d22-0ea5dd164c8a) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for b5e9031c-80a9-47b7-9d22-0ea5dd164c8a:8af34b6198594f4687648c255277ba9b
+[NotebookApp | WARNING] Notebook GPTtest.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b5e9031c-80a9-47b7-9d22-0ea5dd164c8a) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for b5e9031c-80a9-47b7-9d22-0ea5dd164c8a:cc2fab17b3b247ef8be643e254a1fb87
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b5e9031c-80a9-47b7-9d22-0ea5dd164c8a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://flagoptic-origamijapan:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels

@@ -1,0 +1,67 @@
+{
+	"source": {
+		"name": "OpenAI pattern",
+		"showName": false,
+		"instructions": "Submit your code for evaluation.",
+		"command": "python .guides/secure/codingex.py",
+		"preExecuteCommand": "",
+		"options": {
+			"timeout": 30,
+			"ignoreCase": true,
+			"ignoreWhitespaces": true,
+			"ignoreNewline": true,
+			"matchSubstring": true
+		},
+		"guidance": "Here is one possible solution:\n\n```markdown\nQ: What color is the sun?\nA: Yellow\n\nQ: What is the capital of a;lkdfjaopwiht?\nA: ///\n\nQ: Is 2 an even number?\nA: Yes\n```\n\nUse pattern matching to train the model to respond with `///` when it does not know how to generate an answer. Start by giving a question and answer the model would know. Then give it a question it cannot know. Type `A: ///` to show the model how to respond. Finally, add one more question that the model can answer. GPT-3 should now recognize the pattern and respond accordingly when asked a question it cannot know.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"points": 20,
+		"showExpectedAnswer": true,
+		"arePartialPointsAllowed": false,
+		"sequence": [
+			{
+				"arguments": "",
+				"input": "",
+				"output": "true",
+				"showFeedback": false,
+				"feedback": ""
+			}
+		],
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Standard Code Test"
+				},
+				{
+					"name": "Content",
+					"value": "Generating Answers"
+				},
+				{
+					"name": "Programming Language",
+					"value": "OpenAI"
+				},
+				{
+					"name": "Category",
+					"value": "Development Process"
+				}
+			],
+			"files": [
+				"box2.txt"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "box2.txt"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "6",
+		"learningObjectives": "SWBAT train the model to responde with /// when it does not know the answer."
+	},
+	"taskId": "code-output-compare-2670702276",
+	"type": "code-output-compare"
+}

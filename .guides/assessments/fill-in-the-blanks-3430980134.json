@@ -1,0 +1,73 @@
+{
+	"source": {
+		"arePartialPointsAllowed": true,
+		"bloomsObjectiveLevel": "2",
+		"distractors": "",
+		"guidance": "The correct answers are:\n\n* **Translation** - Change a phrase from past tense to future tense\n* **Transformation** - Convert a phrase into the style of Ernest Hemingway\n* **Transformation** - Reverse a phrase\n* **Translation** - Rewrite a sentence in German",
+		"instructions": "**Fill in the blanks below.**",
+		"learningObjectives": "SWBAT classify actions as translation or transformation",
+		"maxAttemptsCount": 0,
+		"metadata": {
+			"files": [
+				"box.txt"
+			],
+			"opened": [
+				{
+					"content": "box.txt",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Fill in the Blanks"
+				},
+				{
+					"name": "Content",
+					"value": "Translation and Transformation"
+				},
+				{
+					"name": "Programming Language",
+					"value": "OpenAI"
+				},
+				{
+					"name": "Category",
+					"value": "Development Process"
+				}
+			]
+		},
+		"name": "translation and transformation",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"passedFrom": 2,
+			"type": "Attempts"
+		},
+		"showName": false,
+		"showValues": true,
+		"text": "* \u003c\u003c\u003cTranslation\u003e\u003e\u003e - Change a phrase from past tense to future tense\n* \u003c\u003c\u003cTransformation\u003e\u003e\u003e - Convert a phrase into the style of Ernest Hemingway\n* \u003c\u003c\u003cTransformation\u003e\u003e\u003e - Reverse a phrase\n* \u003c\u003c\u003cTranslation\u003e\u003e\u003e - Rewrite a sentence in German",
+		"tokens": {
+			"blank": [
+				"Translation",
+				"Transformation",
+				"Transformation",
+				"Translation"
+			],
+			"regexPositions": [],
+			"text": [
+				"* ",
+				0,
+				" - Change a phrase from past tense to future tense\n* ",
+				0,
+				" - Convert a phrase into the style of Ernest Hemingway\n* ",
+				0,
+				" - Reverse a phrase\n* ",
+				0,
+				" - Rewrite a sentence in German"
+			]
+		}
+	},
+	"taskId": "fill-in-the-blanks-3430980134",
+	"type": "fill-in-the-blanks"
+}

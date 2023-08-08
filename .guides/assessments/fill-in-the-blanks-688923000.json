@@ -1,0 +1,51 @@
+{
+	"type": "fill-in-the-blanks",
+	"taskId": "fill-in-the-blanks-688923000",
+	"source": {
+		"name": "jupyter",
+		"showName": false,
+		"instructions": "Fill in the Blank ",
+		"showValues": false,
+		"text": "To integrate the ChatGPT API with Jupyter, one of the Python libraries you need to install is <<<ipywidgets>>>.",
+		"distractors": "",
+		"guidance": "the page instructs to install two Python libraries - `openai` and `ipywidgets`. `ipywidgets` is used to create interactive elements in the Jupyter notebook.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Fill in the Blanks"
+				}
+			],
+			"files": [
+				"GPTtest.ipynb"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "GPTtest.ipynb"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": "",
+		"tokens": {
+			"blank": [
+				"ipywidgets"
+			],
+			"text": [
+				"To integrate the ChatGPT API with Jupyter, one of the Python libraries you need to install is ",
+				0,
+				"."
+			],
+			"regexPositions": []
+		}
+	}
+}

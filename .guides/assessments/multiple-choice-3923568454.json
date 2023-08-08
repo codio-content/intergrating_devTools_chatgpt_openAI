@@ -1,0 +1,69 @@
+{
+	"source": {
+		"name": "question answering",
+		"showName": false,
+		"instructions": "**What kinds of questions can GPT-3 answer? Select all that apply.**",
+		"multipleResponse": true,
+		"isRandomized": true,
+		"answers": [
+			{
+				"_id": "2c1f9920-d613-e131-a35c-501db56d76f7",
+				"correct": true,
+				"answer": "Questions with a one-word answer"
+			},
+			{
+				"_id": "cf2a33d5-f4a0-00cf-8dff-0835d0ee08b3",
+				"correct": true,
+				"answer": "Questions that require complex logic to answer"
+			},
+			{
+				"_id": "86fb2f2d-9a1a-8e80-e6f5-941acc212768",
+				"correct": true,
+				"answer": "Questions to which it could not know the answer"
+			}
+		],
+		"guidance": "All of the above are correct. GPT-3 is a powerful model that accommodates a wide variety of questions that range from  simple to  complex. It can even respond in a coherent manner when it does not know the answer.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				},
+				{
+					"name": "Content",
+					"value": "question answering"
+				},
+				{
+					"name": "Programming Language",
+					"value": "OpenAI"
+				},
+				{
+					"name": "Category",
+					"value": "Development Process"
+				}
+			],
+			"files": [
+				"box.txt"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "box.txt"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "2",
+		"learningObjectives": "SWBAT describe the types of questions GOT-3 can answer"
+	},
+	"taskId": "multiple-choice-3923568454",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,52 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3902080072",
+	"source": {
+		"name": "Emoji GPT",
+		"showName": true,
+		"instructions": "Can emotes be used with GPT?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "9039bc64-496c-9fd3-a682-6874fef52819",
+				"correct": true,
+				"answer": "True\n"
+			},
+			{
+				"_id": "9d477fdf-6f72-09ea-4447-afd59615b5cd",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "The emojis are simply converted to a number that the computer can recognize. Yes emojis work with GPT.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 1
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"box.txt"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "box.txt"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

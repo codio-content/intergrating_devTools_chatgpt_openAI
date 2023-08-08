@@ -1,0 +1,21 @@
+{
+	"id": "e77c48ba-5f7c-2719-f556-69ff1ac9ac41",
+	"title": "Integrating ChatGPT API with Code Editors and IDEs",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "GPTtest.ipynb",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}

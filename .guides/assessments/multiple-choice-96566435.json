@@ -1,0 +1,62 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-96566435",
+	"source": {
+		"name": "GPT-3 code writting",
+		"showName": true,
+		"instructions": "Which of the following tasks related to coding can readily be performed by GPT-3?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c3eb52fe-7a21-9bd8-4f6f-81a5ecf454ed",
+				"correct": false,
+				"answer": "Identifying the root cause of a server error"
+			},
+			{
+				"_id": "8f2bae72-9484-51b0-2430-8726a131cf51",
+				"correct": false,
+				"answer": "Generating complex algorithms for data analysis"
+			},
+			{
+				"_id": "570cc595-f732-e76b-4155-8542c4b4bec1",
+				"correct": true,
+				"answer": "Automatically translating written code into different programming languages\n"
+			},
+			{
+				"_id": "a670691e-334d-de49-d214-9ebbec79cee8",
+				"correct": false,
+				"answer": "Predicting future trends in software development"
+			}
+		],
+		"guidance": "The correct answer would be \"Automatically translating written code into different programming languages\n\", as GPT-3 can generate code in different programming languages. This question tests the learners's understanding of the information you provided about GPT-3's capabilities related to coding, and requires them to differentiate between different tasks that may or may not be within the realm of what GPT-3 can easily do.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"box.txt"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "box.txt"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}
